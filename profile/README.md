@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pipeshub-logo.svg" alt="PipesHub" width="200">
+  <img src="pipeshub-profile.png" alt="PipesHub" width="200">
 </p>
 
 PipesHub is an AI-native enterprise platform that helps teams search, reason, and take action across all their enterprise business apps.
